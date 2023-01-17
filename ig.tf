@@ -9,3 +9,4 @@ resource "aws_internet_gateway" "igw" {
     Created_by  = "Bakyt Tokurov"
   }
 }
+#faddssg
